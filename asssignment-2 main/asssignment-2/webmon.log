@@ -1,0 +1,15 @@
+2024-12-10 15:46:20,399 - Started UBS server
+2024-12-10 15:46:24,459 - Restarting server after 2 occurrences of http403
+2024-12-10 15:46:24,463 - Stopped UBS server
+2024-12-10 15:46:25,470 - Started UBS server
+2024-12-10 15:46:27,473 - Restarted UBS server
+2024-12-10 15:46:47,772 - Timeout exceeded waittime - immediate restart required
+2024-12-10 15:46:47,780 - Stopped UBS server
+2024-12-10 15:46:48,791 - Started UBS server
+2024-12-10 15:46:50,898 - Restarted UBS server
+2024-12-10 15:46:59,124 - Timeout exceeded waittime - immediate restart required
+2024-12-10 15:46:59,129 - Stopped UBS server
+2024-12-10 15:47:00,139 - Started UBS server
+2024-12-10 15:47:02,143 - Restarted UBS server
+2024-12-10 15:47:06,964 - Shutting down webmon
+2024-12-10 15:47:06,969 - Stopped UBS server
